@@ -1,0 +1,2 @@
+# mcshell
+fvck mcshell
