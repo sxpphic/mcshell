@@ -1,2 +1,2 @@
-# mcshell
-fvck mcshell
+# mcshell (microsoft hell)
+fvck mcshell 
